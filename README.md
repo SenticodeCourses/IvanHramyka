@@ -1,5 +1,5 @@
-#Hello
+# Hello
 -------
-'''It's my reposetory'''
+''' It's my reposetory '''
 
 **Ivan Hramyka**
